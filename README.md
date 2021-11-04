@@ -1,2 +1,2 @@
 # CSS_The_Missing_Manual
-Code Examples
+Examples and exercises from the book
